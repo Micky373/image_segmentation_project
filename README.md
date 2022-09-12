@@ -61,5 +61,5 @@ Data can be found [here](https://drive.google.com/drive/folders/18TTRBZA9OqlJrvt
 
 ## Show your support
 
-Feel free to check the [issue page](https://github.com/Micky373/image_segmentation_project/issues)
-Give a ⭐ if you like this project!
+- Feel free to check the [issue page](https://github.com/Micky373/image_segmentation_project/issues)
+- Give a ⭐ if you like this project!
